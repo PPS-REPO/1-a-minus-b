@@ -15,7 +15,7 @@
             }
         }
     },
-    "enable_language": null,
+    "enable_language": [],
     "statements": [
         {
             "name": "statement.md",
